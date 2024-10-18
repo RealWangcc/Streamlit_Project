@@ -4,10 +4,8 @@
 # In[2]:
 
 
-import torch
-import transformers
 import streamlit as st
-import modelscope
+
 
 
 # In[3]:
@@ -22,7 +20,7 @@ st.set_page_config(
 )
 
 # 正文
-st.image('./all_data/pic/star.webp')
+#st.image('./all_data/pic/star.webp')
 st.title('Streamlit 测试')
 st.markdown('> Streamlit 支持通过 st.markdown 直接渲染 markdown')
 st.divider()

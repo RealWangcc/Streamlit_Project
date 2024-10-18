@@ -4,10 +4,9 @@
 # In[2]:
 
 
-import torch
-import transformers
+
 import streamlit as st
-import modelscope
+
 
 
 # In[3]:
