@@ -20,7 +20,7 @@ st.set_page_config(
 )
 
 # 正文
-#st.image('./all_data/pic/star.webp')
+st.image('pic/star.webp')
 st.title('Streamlit 测试')
 st.markdown('> Streamlit 支持通过 st.markdown 直接渲染 markdown')
 st.divider()
